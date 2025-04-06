@@ -1,0 +1,1 @@
+* Fælles repo til kode mm. til Econometric Games 2025
